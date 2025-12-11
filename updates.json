@@ -1,0 +1,10 @@
+{
+  "Servidor": {
+    "Version": "2.0.0.0",
+    "Log": "Ajuste no core do servidor"
+  },
+  "Cliente": {
+    "Version": "4.0.0.211",
+    "Log": "Ajuste no core do servidor"
+  }
+}
